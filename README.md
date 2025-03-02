@@ -7,5 +7,5 @@ Genesis Arielle A. Alian is a first year college student in City College of Ange
 - High School: Republic Central Colleges
 - Elementary School: Pineda-Gutierrez Elementary School
 # My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation Using Excel]
+- Midterm Lab Task 1: [Data Cleaning and Preparation Using Excel] (Midterm Task 1/README.md)
 - Midterm Lab Task 2:
