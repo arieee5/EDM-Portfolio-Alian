@@ -15,7 +15,7 @@ For this task, we were given a flat data from Excel (See raw file) and were task
 <img src="images/before.png" alt="Alt Text" width="400" height="300">
 
 # Here's the screenshot of my output after I started data cleaning (See screenshot)
-<img src="images/after.png" alt="Alt Text" width="300" height="350">
+<img src="images/after.png" alt="Alt Text" width="370" height="350">
 
 # Here's the Physical Data Model
 <img src="images/erd.png" alt="Alt Text" width="400" height="220">
