@@ -14,7 +14,7 @@ For this task, we are given a flat data from Excel (See raw file) and we are tas
 # Step 3: Here's the screenshot of my output before I started data cleaning (See screenshot)
 <img src="images/before.png" alt="Alt Text" width="400" height="300">
 
-# Step 4: Here's the screenshot of my output before I started data cleaning (See screenshot)
+# Step 4: Here's the screenshot of my output after I started data cleaning (See screenshot)
 <img src="images/after.png" alt="Alt Text" width="400" height="300">
 
 # Here's the Physical Data Model
