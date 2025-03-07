@@ -31,10 +31,10 @@
 ### Cleaned Data
 
 ### Sal By Role Type Dup
-<img src="images/salbyroletypedup.png" alt="Alt Text" width="300" height="400">
+<img src="images/salbyroletypedup.png" alt="Alt Text" width="200" height="200">
 
 ### Sal By Role Size Ref
-<img src="images/salbyrolesizeref.png" alt="Alt Text" width="300" height="400">
+<img src="images/salbyrolesizeref.png" alt="Alt Text" width="200" height="200">
 
 ### Sal By State Ref
 <img src="images/salbystateref.png" alt="Alt Text" width="400" height="100">
