@@ -29,6 +29,7 @@
 
 ## Final Output
 ### Cleaned Data
+<img src="images/before2.png" alt="Alt Text" width="300" height="100">
 
 ### Sal By Role Type Dup
 <img src="images/salbyroletypedup.png" alt="Alt Text" width="300" height="100">
