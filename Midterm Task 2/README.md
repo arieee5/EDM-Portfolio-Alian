@@ -6,7 +6,7 @@
 - -What size companies pay the best
 - -Where Job Roles or Job Titles pay the best and least in a specific state
 ## Dataset Before Cleaning and Transformation:
-<img src="images/before2.png" alt="Alt Text" width="300" height="300">
+<img src="images/before2.png" alt="Alt Text" width="400" height="350">
 
 ## Steps Performed in Data Cleaning and Transformation:
 - Duplicated the raw data to preserve the original.
@@ -30,16 +30,16 @@
 
 ## Final Output
 ### Cleaned Data
-
+<img src="images/cleaned.PNG" alt="Alt Text" width="450" height="400">
 
 ### Sal By Role Type Dup
-<img src="images/salbyroletypedup.PNG" alt="Alt Text" width="300" height="100">
+<img src="images/salbyroletypedup.PNG" alt="Alt Text" width="450" height="150">
 
 ### Sal By Role Size Ref
-<img src="images/salbyrolesizeref.PNG" alt="Alt Text" width="300" height="100">
+<img src="images/salbyrolesizeref.PNG" alt="Alt Text" width="400" height="200">
 
 ### Sal By State Ref
-<img src="images/salbystateref.PNG" alt="Alt Text" width="400" height="100">
+<img src="images/salbystateref.PNG" alt="Alt Text" width="400" height="300">
 
 ### Query Dependencies
 <img src="images/query dependencies.png" alt="Alt Text" width="400" height="300">
