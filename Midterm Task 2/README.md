@@ -1,6 +1,6 @@
 # Midterm Lab Task 2: Data Cleaning and Transformation Using Power Query Editor
 ## Task Description: 
-- To extract useful information from the file UncleanedDSJObs.csv taken from a Job Posting site available in Kaggle.
+- To extract useful information from the file UncleanedDSJObs.csv (See raw file) taken from a Job Posting site available in Kaggle.
 - To find out:
 - -Which Job Roles pay the highest and least
 - -What size companies pay the best
