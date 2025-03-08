@@ -6,6 +6,7 @@
 - -What size companies pay the best
 - -Where Job Roles or Job Titles pay the best and least in a specific state
 ## Dataset Before Cleaning and Transformation:
+<img src="images/before2.png" alt="Alt Text" width="300" height="300">
 
 ## Steps Performed in Data Cleaning and Transformation:
 - Duplicated the raw data to preserve the original.
