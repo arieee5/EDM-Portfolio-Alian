@@ -33,13 +33,13 @@
 
 
 ### Sal By Role Type Dup
-<img src="images/salbyroletypedup.png" alt="Alt Text" width="300" height="100">
+<img src="images/salbyroletypedup.PNG" alt="Alt Text" width="300" height="100">
 
 ### Sal By Role Size Ref
-<img src="images/salbyrolesizeref.png" alt="Alt Text" width="300" height="100">
+<img src="images/salbyrolesizeref.PNG" alt="Alt Text" width="300" height="100">
 
 ### Sal By State Ref
-<img src="images/salbystateref.png" alt="Alt Text" width="400" height="100">
+<img src="images/salbystateref.PNG" alt="Alt Text" width="400" height="100">
 
 ### Query Dependencies
 <img src="images/query dependencies.png" alt="Alt Text" width="400" height="300">
