@@ -28,6 +28,8 @@
 - Created a reference as Sal By State ref, selected State Full Name, Min Sal, and Max Sal, multiplied salaries by 1000, and grouped by State Full Name to get average salaries.
 - Checked query dependencies to confirm correct relationships.
 
+
+
 ## Final Output
 ### Cleaned Data
 <img src="images/cleaned.PNG" alt="Alt Text" width="450" height="400">
