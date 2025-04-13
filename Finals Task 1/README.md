@@ -45,9 +45,9 @@ Create a table named event_sponsors with the following fields:
 <img src="images/er_diagram.png" alt="Alt Text" width="300" height="450">
 
 ## SQL Copy of the Database and Table Structures
-[Database](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/query.sql)
-[Events Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/emdb_events_tbl.sql)
-[Attendees Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/emdb_attendees_tbl.sql)
-[Event Attendees Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/emdb_event_attendees_tbl.sql)
-[Event Sponsors Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/emdb_event_sponsors_tbl.sql)
+- [Database](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/query.sql)
+- [Events Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/emdb_events_tbl.sql)
+- [Attendees Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/emdb_attendees_tbl.sql)
+- [Event Attendees Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/emdb_event_attendees_tbl.sql)
+- [Event Sponsors Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%201/sqlfiles/emdb_event_sponsors_tbl.sql)
 
