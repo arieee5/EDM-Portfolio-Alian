@@ -26,4 +26,22 @@ Create a table named event_sponsors with the following fields:
 
 # Outputs:
 ## Query Statements
+<img src="images/query_statements.png" alt="Alt Text" width="350" height="400">
 
+## Table Structures
+### Events Table
+<img src="images/events_tbl.png" alt="Alt Text" width="600" height="250">
+
+### Attendees Table
+<img src="images/attendees_tbl.png" alt="Alt Text" width="600" height="250">
+
+### Event Attendees Table
+<img src="images/event_attendees_tbl.png" alt="Alt Text" width="600" height="250">
+
+### Event Sponsors Table
+<img src="images/event_sponsors_tbl.png" alt="Alt Text" width="600" height="250">
+
+## ER Diagram
+<img src="images/er_diagram.png" alt="Alt Text" width="300" height="450">
+
+## SQL Copy of the Database and Table Structures
