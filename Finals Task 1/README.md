@@ -45,3 +45,4 @@ Create a table named event_sponsors with the following fields:
 <img src="images/er_diagram.png" alt="Alt Text" width="300" height="450">
 
 ## SQL Copy of the Database and Table Structures
+[See files](https://github.com/arieee5/EDM-Portfolio-Alian/tree/main/Finals%20Task%201/sqlfiles)
