@@ -11,4 +11,4 @@ Create a Pivot Table-based dashboard using the provided dataset. Summarize salar
 ## Step 5: Design the dashboard
 
 # Final Output:
-
+<img src="images/dashboard.png" alt="Alt Text" width="400" height="350">
