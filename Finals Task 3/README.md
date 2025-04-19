@@ -25,18 +25,22 @@ Insert the products that will not violate the check constraint into the products
 - Product 9: "External Hard Drive", -79.99
 - Product 10: "Speakers", 9.99
 
+<img src="images/insert_products.png" alt="Alt Text" width="225" height="200">
+
 ## Step 4
 Modify the product_name field to have a maximum length of 120 characters.
 
 # Outputs:
 ## Query Statements
-
+<img src="images/queries.png" alt="Alt Text" width="320" height="300">
 
 ## Table Structure
 ### Products Table
-
+<img src="images/product_tbl.png" alt="Alt Text" width="350" height="100">
 
 ## ER Diagram
-
+<img src="images/erdiagram.png" alt="Alt Text" width="150" height="170">
 
 ## SQL Copy of the Database and Table Structures
+- [Database](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%203/sqlfiles/queries.sql)
+- [Products Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%203/sqlfiles/salesdb_product_tbl.sql)
