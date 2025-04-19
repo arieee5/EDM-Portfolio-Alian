@@ -28,16 +28,16 @@ Create a table for submissions with the following fields:
 
 ## Table Structures
 ### Students Table
-<img src="images/student_tbl.png" alt="Alt Text" width="600" height="150">
+<img src="images/student_tbl.png" alt="Alt Text" width="300" height="80">
 
 ### Assignment Table
-<img src="images/assignment_tbl.png" alt="Alt Text" width="600" height="250">
+<img src="images/assignment_tbl.png" alt="Alt Text" width="300" height="150">
 
 ### Submission Table
-<img src="images/submission_tbl.png" alt="Alt Text" width="600" height="250">
+<img src="images/submission_tbl.png" alt="Alt Text" width="400" height="150">
 
 ## ER Diagram
-<img src="images/erd.png" alt="Alt Text" width="450" height="450">
+<img src="images/erd.png" alt="Alt Text" width="350" height="350">
 
 ## SQL Copy of the Database and Table Structures
 - [Database](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%202/sqlfiles/query_statement.sql)
