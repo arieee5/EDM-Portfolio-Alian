@@ -24,9 +24,23 @@ Create a table for submissions with the following fields:
 
 # Outputs:
 ## Query Statements
+<img src="images/query_statement.png" alt="Alt Text" width="350" height="400">
 
 ## Table Structures
+### Students Table
+<img src="images/student_tbl.png" alt="Alt Text" width="600" height="150">
+
+### Assignment Table
+<img src="images/assignment_tbl.png" alt="Alt Text" width="600" height="250">
+
+### Submission Table
+<img src="images/submission_tbl.png" alt="Alt Text" width="600" height="250">
 
 ## ER Diagram
+<img src="images/erd.png" alt="Alt Text" width="450" height="450">
 
 ## SQL Copy of the Database and Table Structures
+- [Database](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%202/sqlfiles/query_statement.sql)
+- [Student Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%202/sqlfiles/sasdb_student_tbl.sql)
+- [Assignment Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%202/sqlfiles/sasdb_assignment_tbl.sql)
+- [Submission Table](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%202/sqlfiles/sasdb_submission_tbl.sql)
