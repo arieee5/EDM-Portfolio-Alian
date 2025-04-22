@@ -21,10 +21,13 @@ After inserting the given data in the EmployeeSalaries table, perform the follow
 
 # Outputs:
 ## 1.1.
+<img src="images/1.1.png" alt="Alt Text" width="250" height="300">
 
 ## 1.2.
+<img src="images/1.2.png" alt="Alt Text" width="300" height="250">
 
 ## 1.3.
+<img src="images/1.3.png" alt="Alt Text" width="300" height="250">
 
 ## Problem 2
 Consider a table named EmployeeData that stores information about employees in a company. The table has the following fields:
@@ -43,11 +46,16 @@ After inserting the given data in the EmployeeSalaries table, perform the follow
 
 # Outputs:
 ## 2.1.
+<img src="images/2.1.png" alt="Alt Text" width="300" height="300">
 
 ## 2.2.
+<img src="images/2.2.png" alt="Alt Text" width="300" height="250">
 
 ## 2.3.
+<img src="images/2.3.png" alt="Alt Text" width="300" height="250">
 
 ## 2.4.
+<img src="images/2.4.png" alt="Alt Text" width="250" height="400">
 
 # SQL Copy
+[Query](https://github.com/arieee5/EDM-Portfolio-Alian/blob/main/Finals%20Task%204/sqlfile/QUERY.sql)
