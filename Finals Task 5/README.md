@@ -1,4 +1,4 @@
-# Finals Task 4: Using Stored Procedures, Views, and Function
+# Finals Task 5: Using Stored Procedures, Views, and Function
 
 ## Instructions
 - Create a database named inventory, use inventory
