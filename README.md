@@ -19,3 +19,4 @@ Genesis Arielle A. Alian is a first year college student in City College of Ange
 - Finals Task 3: [Table Manipulation](https://github.com/arieee5/EDM-Portfolio-Alian/tree/main/Finals%20Task%203)
 - Finals Task 4: [Using SELECT Statements](https://github.com/arieee5/EDM-Portfolio-Alian/tree/main/Finals%20Task%204)
 - Finals Task 5: [Using Stored Procedures, Views, and Function](https://github.com/arieee5/EDM-Portfolio-Alian/blob/61376db6fc79dd243847600cca0192b7407c805c/Finals%20Task%205/README.md)
+- Finals Task 6: MongoDB Practice Task
